@@ -1,0 +1,42 @@
+{
+    "CdnUrl": [
+        {
+            "url": "https://cdn-qcloud-cn-mc.kurogame.com/prod/client/",
+            "weight": "90"
+        },
+        {
+            "url": "https://cdn-aliyun-cn-mc.kurogame.com/prod/client/",
+            "weight": "100"
+        },
+        {
+            "url": "https://cdn-qiniu-cn-mc.kurogame.com/prod/client/",
+            "weight": "110"
+        }
+    ],
+    "SecondaryUrl": [],
+    "KeyUrl": [
+        "https://cdn-aliyun-cn-mc.kurogame.com/prod/client/",
+        "https://cdn-qcloud-cn-mc.kurogame.com/prod/client/"
+    ],
+    "SpeedRatio": 0.8,
+    "PriceRatio": 0.2,
+    "GmOpen": false,
+    "PayUrl": "https://cbt2-pay-cn-mc.aki-game.com/ReceiptNotify/PayNotify",
+    "LogReportUrl": "https://cbt2-uploadlog-cn-mc.aki-game.com/uploadClientLog",
+    "NoticUrl": "https://prod-alicdn-gmserver-static.kurogame.com",
+    "FeedBack": {
+        "title": "共研测试体验反馈",
+        "url": "https://web-survey.kurogame.com/feedback/questionnaire/pid0TXVZvB"
+    },
+    "LoginServers": [
+        {
+            "id": "1030",
+            "name": "CBT2-国内正式服",
+            "ip": "https://cbt2-login-cn-mc.aki-game.com"
+        }
+    ],
+    "PrivateServers": {
+        "enable": false,
+        "serverUrl": ""
+    }
+}
