@@ -1,0 +1,29 @@
+{
+    "PackageVersion": "0.7.0",
+    "LauncherVersion": "0.7.4",
+    "ResourceVersion": "0.7.7",
+    "LauncherIndexSha1": "C4BEB429EF81D9662A9AA1CC8EA913D9DBD40ACF",
+    "ResourceIndexSha1": "BCCDE4E76A3066F8C93D49F4609A1DBC4CE7DE74",
+    "Versions": [
+        {
+            "Name": "en",
+            "Version": "0.7.1",
+            "IndexSha1": "CE6EC5B7913A385D3934696288645736A49D0C4E"
+        },
+        {
+            "Name": "ja",
+            "Version": "0.7.0",
+            "IndexSha1": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        {
+            "Name": "ko",
+            "Version": "0.7.0",
+            "IndexSha1": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        {
+            "Name": "zh",
+            "Version": "0.7.1",
+            "IndexSha1": "4C77777E8EBD1B151CD71927C7666C2223DC16B8"
+        }
+    ]
+}
